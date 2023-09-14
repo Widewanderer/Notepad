@@ -4,17 +4,18 @@
 
 This project is licensed under the terms of the [MIT](https://opensource.org/licenses/MIT) license.
 
-#SVG Logo Generator
-
 ---
+
 # Notepad
-Simple application for taking notes using Express js 
+[CLICK ME! to see the site](https://notepad-trotz-fc1f6bad22f5.herokuapp.com/)
+
+
 
 ## Description
 
 Simple application for taking notes using Express js. Notes are saved and stored in a Database Json file and retreved and displayed using a Modular Routing structure. As of time of writting project lacks proper connection to Database file. 
 
-Video
+
 
 
 
@@ -30,13 +31,20 @@ Video
 
 ## Installation
 
-Download project from GitHub. Use npm install for modules.
+Click the link below for the notpad GitHub page. Download project from GitHub and use npm install for modules.
+
+[GitHub Notepad](https://github.com/Widewanderer/Notepad)
 
 ---
 
 ## Usage
 
 Interface is fairly straight forward. Click the "Get Stared" button on homepage to enter site. Enter notes and note title on the right side of page. Previously made notes will be displayed on the left side. 
+
+![Notepad Homepage](./images/Notepad_home.png)
+
+![Notepad Homepage](./images/Note_pic.png)
+
 ---
 
 ## Contributing
